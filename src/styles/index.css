@@ -1,4 +1,6 @@
-
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
 /* 
 
     You can write your own styles here...
